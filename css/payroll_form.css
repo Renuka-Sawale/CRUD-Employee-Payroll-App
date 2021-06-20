@@ -190,6 +190,7 @@ error-output {
     .cancelButton {
         margin-left: 0px;
     }
+    
     .form {
         width: 85%;
         padding: 44px 20px;
@@ -200,15 +201,19 @@ error-output {
     .form {
         margin-top: 10px;
     }
+    
     .row {
         flex-direction: column;
     }
+    
     .uploadButton {
         justify-content: flex-start;
     }
+    
     .profile-radio-button {
         flex-flow: wrap;
     }
+    
     .submit-reset {
         width: 100%;
         display: flex;
@@ -217,9 +222,11 @@ error-output {
         justify-content: space-between;
         margin-bottom: 20px;
     }
+    
     .submitButton {
         margin: 0;
     }
+    
     .buttonParent {
         flex-direction: column-reverse;
         align-items: flex-start;
